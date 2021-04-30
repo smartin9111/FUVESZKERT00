@@ -2,6 +2,7 @@
     <h1>Céljaink</h1>
 
     <div class="entry">
+        <H1><a href="https://www.kertertalapitvany.hu/">Eredeti oldal linkje</a></H1>
         <p>Az európai egyetemek több száz éves múlttal rendelkező különleges történeti értékű, kezdetben kizárólag az
             oktatást szolgáló egységei a botanikus kertek.</p>
         <p>Napjainkban azonban a nemzetközi elvárásoknak megfelelően, a botanikus kertek feladatai szerteágazóak.</p>

@@ -196,7 +196,7 @@ body {
     margin: 0;
     padding: 0 25px;
     color: #fff;
-    font-size: 19px;
+    font-size: 14px;
     font-family: 'Yanone Kaffeesatz', georgia, arial, tahoma, verdana, helvetica, sans-serif;
     font-weight: normal;
     text-shadow: 1px 1px 2px #767727;
@@ -336,7 +336,7 @@ h6 {
 
 h1 {
     width: 600px;
-    margin: 0 auto;
+    margin: initial;
     display: block;
     /*	text-indent: -9999px; */
     color: #668551;
