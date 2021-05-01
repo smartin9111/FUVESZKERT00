@@ -26,7 +26,7 @@ $oldalak = array(
     'email' => array('fajl' => 'email', 'szoveg' => 'Emailek', 'menun' => array(1, 1)),
     'mail' => array('fajl' => 'mail', 'szoveg' => '', 'menun' => array(0, 0)),
 
-    'tablazat' => array('fajl' => 'tablazat', 'szoveg' => 'Észrevétel', 'menun' => array(1, 1)),
+   
 
     'belepes' => array('fajl' => 'belepes', 'szoveg' => 'Belépés', 'menun' => array(1, 0)),
     'kilepes' => array('fajl' => 'kilepes', 'szoveg' => 'Kilépés', 'menun' => array(0, 1)),

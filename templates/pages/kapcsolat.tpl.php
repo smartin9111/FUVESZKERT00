@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <title>Kapcsolat</title>
-    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <link rel="stylesheet" type="text/css" href="./styles/main.css">
+    <!--./ berakva -->
     <script type="text/javascript" src="js/main.js"></script>
 </head>
 

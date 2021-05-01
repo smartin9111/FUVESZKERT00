@@ -5,7 +5,8 @@ Azonosító: <strong><?= $row['id'] ?></strong><br><br>
 Név: <strong><?= $row['csaladi_nev'] . " " . $row['uto_nev'] ?></strong>
 <?php } else { ?>
 <h1>A bejelentkezés nem sikerült!</h1>
-<a href="./belepes.tpl.php">Próbálja újra!</a>
+<a href="belepes.tpl.php">Próbálja újra!</a>
+<!--./belepes.tpl.php volt az eredeti -->
 <?php } ?>
 <?php } ?>
 <?php if (isset($errormessage)) { ?>

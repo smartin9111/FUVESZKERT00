@@ -15,9 +15,11 @@
 
     <meta charset="utf-8">
     <title><?= $ablakcim['cim'] . ((isset($ablakcim['mottó'])) ? ('|' . $ablakcim['mottó']) : '') ?></title>
-    <link rel="stylesheet" href="/images/style.css" type="text/css">
-    <?php if (file_exists('images/styles/' . $keres['fajl'] . '.css')) { ?>
-    <link rel="stylesheet" href="images/styles/<?= $keres['fajl'] ?>.css" type="text/css"><?php } ?>
+    <link rel="stylesheet" href="./images/style.css" type="text/css"><!-- images mappa volt-->
+    <?php if (file_exists('./images/' . $keres['fajl'] . '.css')) { ?>
+    <!-- images mappa volt-->
+    <link rel="stylesheet" href="./images/<?= $keres['fajl'] ?>.css" type="text/css"><?php } ?>
+    <!-- images mappa volt-->
 </head>
 
 <body>
@@ -35,19 +37,19 @@
                     <div id="header">
                         <div id="logo">
                             <div style="float: left;">
-                                <img src="/images/head2.jpg">
+                                <img src="./images/head2.jpg">
                             </div>
                             <div style="float: left; width: 150px; margin-top: 15px;">
                                 <div>
-                                    <img src="/images/nca.jpg">
+                                    <img src="./images/nca.jpg">
                                 </div>
                                 <div>
-                                    <img src="/images/fuveszkert.jpg">
+                                    <img src="./images/fuveszkert.jpg">
                                 </div>
                             </div>
                             <div class="nea">
 
-                                <img src="/images/nea-01.jpg" width="150"></a>
+                                <img src="./images/nea-01.jpg" width="150"></a>
                             </div>
                             <div style="clear:both;"></div>
                         </div>
